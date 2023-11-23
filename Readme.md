@@ -25,7 +25,7 @@ Welcome to the Netflix Clone Project! This project aims to recreate the seamless
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Aryan08/netflix-clone.git
+    git clone https://github.com/Aryang08/netflix-clone.git
     ```
 
 2. Set up your local development environment using XAMPP or a similar tool.
